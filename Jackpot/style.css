@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+
+#score {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#clickButton {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#upgrades {
+    margin-top: 20px;
+}
+
+.upgrade {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+}
